@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Teseo</string>
+    <string name="sygma_name">Sygma Tech</string>
+    <string name="company_name">Sygma Tech</string>
+</resources>
